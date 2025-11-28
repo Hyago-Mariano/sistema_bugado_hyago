@@ -2,7 +2,7 @@
 // Conexão com o banco de dados
 $host = "localhost";
 $user = "root";
-$pass = "";  //01 nn havia senha
+$pass = "root";  //01 nn havia senha
 $db   = "manutencao";
 
 
